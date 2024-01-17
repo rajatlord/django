@@ -1,7 +1,6 @@
 ======
 Django
 ======
-
 Django is a high-level Python web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
 
@@ -56,3 +55,5 @@ Supporting the Development of Django
 Django's development depends on your contributions.
 
 If you depend on Django, remember to support the Django Software Foundation: https://www.djangoproject.com/fundraising/
+
+
